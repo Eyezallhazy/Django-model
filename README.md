@@ -1,3 +1,3 @@
 # Django-model
 
-# Creating a Django application with model called Post
+# Creating a Blog application with Django
